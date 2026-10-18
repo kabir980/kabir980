@@ -1,47 +1,44 @@
 <div align="center">
 
-# 👋 Namaste, I'm Kabir Pokhrel!
+# Kabir Pokhrel
 
-### 💻 Self-taught Developer from Nepal 🇳🇵 | 🚀 Building one project at a time
+### Developer | Web Development & Python 🇳🇵
 
 <p>
-  Welcome to my GitHub profile!
+  Building clean, functional and user-focused software.
   <br>
-  I turn curiosity into code — learning by building, breaking, and fixing things.
+  Turning ideas into reliable, well-structured code.
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 📍 Based in Nepal
-- 🔭 Currently working on: **[your project name here]**
-- 🌱 Currently learning: **[e.g. JavaScript, React, Python]**
-- 💬 Ask me about: **HTML, CSS, JavaScript, Python**
-- ⚡ Fun fact: **[write something about yourself]**
-
----
-
-### 🛠️ Technologies & Tools
+### 👨‍💻 About Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"
-       alt="Technology icons" />
+  I'm a developer from Nepal focused on building web applications and
+  Python-based solutions. I care about clean code, practical design,
+  and delivering projects that solve real problems.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Technical Skills
 
-<img src="https://github-readme-stats.vercel.app/api?username=kabir980&show_icons=true&theme=tokyonight&hide_border=true"
-     alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir980&layout=compact&theme=tokyonight&hide_border=true"
-     alt="Top Languages" height="170" />
-
+**Frontend**
 <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-<img src="https://streak-stats.demolab.com/?user=kabir980&theme=tokyonight&hide_border=true"
-     alt="GitHub Streak" />
+**Backend / Scripting**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+**Tools & Workflow**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 ---
 
@@ -54,15 +51,7 @@
 
 ---
 
-### 🎯 Goals
-
-- ✅ Build and publish more real-world projects
-- 📚 Learn something new every day
-- 🤝 Contribute to open source
-
----
-
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <a href="https://github.com/kabir980">
   <img src="https://img.shields.io/badge/GitHub-kabir980-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -73,9 +62,5 @@
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<br><br>
-
-⭐ Thanks for visiting my profile! ⭐
 
 </div>
