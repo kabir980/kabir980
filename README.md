@@ -59,17 +59,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project 1](https://github.com/kabir980/your-repo) | Short one-line description | .NET, SQL Server, Angular |
-| [Project 2](https://github.com/kabir980/your-repo) | Short one-line description | Node.js, React, PostgreSQL |
-| [Project 3](https://github.com/kabir980/your-repo) | Short one-line description | Docker, Redis, .NET |
-
----
 
 ### 🤝 Let's Connect
 
